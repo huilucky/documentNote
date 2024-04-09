@@ -3,7 +3,7 @@ import { set_sidebar } from "../utils/auto-gen-sidebar.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-   base:'/documentNode/',
+  base:'/documentNode/',
   title: "Ahui的笔记小站",
   description: "记录学习的点滴",
   themeConfig: {
