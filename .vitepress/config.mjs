@@ -52,6 +52,16 @@ export default defineConfig({
           ]
         },
       ],
+
+      '/docs/go/':[
+        {
+          text: 'go',
+          collapsed: true,
+          items: [
+            { text: '基础', link: '/docs/go/basics' },
+          ]
+        },
+      ],
     },
 
     socialLinks: [
