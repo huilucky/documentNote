@@ -139,15 +139,17 @@
 
 
 /* 自定义侧边栏在最左边，右边撑满宽度 */
-.VPDoc .container {
+/* .VPDoc .container {
   margin: 0 !important;
 }
 @media (min-width: 960px) {
   .VPDoc:not(.has-sidebar) .content {
     max-width: 1552px !important;
   }
-}
-.VPDoc.has-aside .content-container {
+} */
+
+
+/* .VPDoc.has-aside .content-container {
   max-width: 1488px !important;
 }
 @media (min-width: 960px) {
@@ -169,12 +171,13 @@
   overflow-x: hidden;
   overflow-y: auto;
   scrollbar-width: none;
-}
+} */
 
 /* 自定义h2的间距 */
-.vp-doc h2 {
+/* .vp-doc h2 {
   margin: 0px 0 16px;
   padding-top: 24px;
   border: none;
-}
+} */
+
 
